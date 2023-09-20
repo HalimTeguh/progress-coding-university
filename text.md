@@ -1,2 +1,2 @@
 Ini penambahan
-Sedang Belajar di Program Dicoding for University
+Sedang Belajar menyelesaikan konflik
