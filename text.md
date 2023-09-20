@@ -1,2 +1,3 @@
 Ini penambahan
-Sedang Belajar Git Branch
+Sedang Belajar Git Branch (menyelesaikan konflik)
+
